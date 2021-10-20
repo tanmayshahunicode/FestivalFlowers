@@ -8,6 +8,7 @@ public class HelloTestClass {
 	public void testRun() {
 		
 		System.out.println("How are you");
+		System.out.println("I am absolutely fine");
 	}
 
 }
